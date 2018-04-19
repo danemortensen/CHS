@@ -1,4 +1,4 @@
-*/Database/
-*/Docs/
-*/Tests/
-*/connection.json
+node/Database/
+node/Docs/
+node/Tests/
+node/connection.json
